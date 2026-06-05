@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "name": "my-project",
   "version": "0.1.0",
@@ -80,3 +81,6 @@
     "typescript": "5.7.3"
   }
 }
+=======
+{"type": "commonjs"}
+>>>>>>> ded4c251e9c190ad863ba46fbfd780d418aae763
