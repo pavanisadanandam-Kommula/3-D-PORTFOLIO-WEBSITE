@@ -1,0 +1,8 @@
+{
+  "antigravity.chatWidgetTheme": {
+    "background": "rgba(30,30,30,0.85)",
+    "blur": "12px",
+    "borderRadius": "12px",
+    "shadow": "0 4px 20px rgba(0,0,0,0.3)"
+  }
+}
