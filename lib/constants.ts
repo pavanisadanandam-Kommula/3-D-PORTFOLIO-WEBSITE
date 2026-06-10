@@ -237,6 +237,15 @@ export const OFFER_LETTERS = [
     summary: "Offer letter for a web development internship at SkillCraft Technology.",
     image: "/certificates/internships/skillcraft-technology.jpg",
   },
+  {
+    id: 4,
+    company: "Decode Labs",
+    position: "Python Programming Intern",
+    date: "June 2026",
+    location: "Remote / Virtual",
+    summary: "Offer letter for a Python Programming internship at Decode Labs from 7 June to 7 July 2026.",
+    image: "/certificates/internships/decode-labs.jpg",
+  },
 ]
 
 export const HACKATHON_ACHIEVEMENTS = [
